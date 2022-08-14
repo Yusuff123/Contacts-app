@@ -1,0 +1,47 @@
+#container {
+    width: 400px;
+    background-color: gray;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+input {
+    width: 75%;
+    padding: 10px;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    margin: 2%;
+    margin-left: 10%;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 3px;
+    border: none;
+    float: right;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul li {
+    background-color: rgb(191, 122, 38);
+    width: 89%;
+    border-radius: 3px;
+}
+
+#totalMember {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
